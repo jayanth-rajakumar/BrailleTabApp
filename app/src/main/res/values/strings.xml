@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BrailleTab</string>
+
+    <string-array name="sources">
+        <item>bbc-news</item>
+        <item>al-jazeera-english</item>
+        <item>bbc-sport</item>
+        <item>google-news</item>
+        <item>new-scientist</item>
+        <item>the-times-of-india</item>
+
+    </string-array>
+
+</resources>

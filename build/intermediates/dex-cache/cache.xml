@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\3e606696ac87382536034bdf60a6323e766e25e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_afe6bf4698bda48d10dfe984cd8c49f1e76975fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\6e8ba962d0da7be4772de976bca384febe39cac4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_c4713216c05fcd46c085bba967ccaa22351d05ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\1ee489a5f197c17c842fc9296aeddbadd8782377\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_96075331f1a099116c8e144d759aa69c0a2ebbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_f5694d9b32b9fcd3d6675db133ddd1979ac35174.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\f6240df016a11ab496aed6aa67a96d500e517ba7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_0216897cc81f8779c70a7b43b9945669145dd047.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_71e763d767ab229dac5fde6ba851b36ba46f5223.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\d8d4a1b500001e1b1ba022cf14ca33e884d26f2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_8d867ca11235e2854af35eee290945b525755a3f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dce0f5dc4ec87302d879250c45fe5f3f72f02917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\42445baf66acf80303708b264f3a8e8f222219dd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_7c073c0d826e241a0516a50eefc3df9de426b17a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_749f92721abc8a389255a48e6bc4f467c7c672e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\c5e0c3d07394e4abd2c35e8b592bf8b07fb9be9e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_e5f712096b97f51507e1dc7a7ff9b93425b76f79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\7936a6e4b47edad7ac21eb57e03e4abc01d59d2c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_88b46bd2e2ba80ded3886e324dba97240f3d5be4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Jayanth Rajakumar\.android\build-cache\bd3bde6701b1091a7046accf8bea987b7db8345b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\gitworkspace\BrailleTab\app\build\intermediates\pre-dexed\debug\classes_f7724cbf508a09dc420537974d3cc942fc23947e.jar" />
+    </item>
+
+</items>
