@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 314
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1417,7 +1417,7 @@
                     "endOffset": 6494
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1436,7 +1436,7 @@
                     "endOffset": 6541
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1455,7 +1455,7 @@
                     "endOffset": 6592
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4989,7 +4989,7 @@
                     "endOffset": 44044
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -5123,7 +5123,7 @@
                     "endOffset": 44839
                 },
                 "from": {
-                    "file": "D:\\gitworkspace\\BrailleTab\\app\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\gitworkspace\\BrailleTabApp\\app\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,

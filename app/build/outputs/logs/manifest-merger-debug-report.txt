@@ -1,32 +1,32 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:2:1-32:12
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:2:1-32:12
 	package
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:3:5-39
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:5:5-69
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:5:5-69
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:5:22-66
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:5:22-66
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:6:22-77
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:6:22-77
 application
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:7:5-30:19
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:7:5-30:19
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\c5e0c3d07394e4abd2c35e8b592bf8b07fb9be9e\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\bd3bde6701b1091a7046accf8bea987b7db8345b\output\AndroidManifest.xml:29:5-20
@@ -38,47 +38,47 @@ MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Jayant
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\d8d4a1b500001e1b1ba022cf14ca33e884d26f2b\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Jayanth Rajakumar\.android\build-cache\1ee489a5f197c17c842fc9296aeddbadd8782377\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.ieeeflier.brailletab.MainActivity
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:14:9-20:20
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:14:19-47
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:14:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:15:13-19:29
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:16:17-69
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:16:25-66
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:18:17-77
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:18:27-74
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:18:27-74
 service#com.ieeeflier.brailletab.NLService
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:22:9-28:19
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:22:9-28:19
 	android:label
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:23:13-45
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:23:13-45
 	android:permission
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:24:13-87
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:24:13-87
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:22:18-67
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:22:18-67
 intent-filter#android.service.notification.NotificationListenerService
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:25:13-27:29
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:25:13-27:29
 action#android.service.notification.NotificationListenerService
-ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:26:17-99
+ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:26:17-99
 	android:name
-		ADDED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml:26:25-96
+		ADDED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml:26:25-96
 uses-sdk
-INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\c5e0c3d07394e4abd2c35e8b592bf8b07fb9be9e\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\bd3bde6701b1091a7046accf8bea987b7db8345b\output\AndroidManifest.xml:21:5-23:60
@@ -92,11 +92,11 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Ja
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
-		INJECTED from D:\gitworkspace\BrailleTab\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
+		INJECTED from D:\gitworkspace\BrailleTabApp\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Jayanth Rajakumar\.android\build-cache\c5e0c3d07394e4abd2c35e8b592bf8b07fb9be9e\output\AndroidManifest.xml:25:5-27:34

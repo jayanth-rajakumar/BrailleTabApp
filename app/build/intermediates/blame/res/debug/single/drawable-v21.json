@@ -1,18 +1,18 @@
 [
     {
-        "merged": "D:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
-        "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
-    },
-    {
-        "merged": "D:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
-        "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "D:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "merged": "D:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "D:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "merged": "D:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Jayanth Rajakumar\\.android\\build-cache\\3bf181d5a891d30a32ffc6c6ab3a5bbde25a1dd6\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
     }
 ]

@@ -1,4 +1,4 @@
-#Tue Oct 23 13:40:17 IST 2018
-base.0=D\:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+#Tue Oct 23 14:34:03 IST 2018
+base.0=D\:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 renamed.0=classes.dex
-file.0=D\:\\gitworkspace\\BrailleTab\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+file.0=D\:\\gitworkspace\\BrailleTabApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
